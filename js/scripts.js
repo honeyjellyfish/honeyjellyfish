@@ -1,0 +1,1 @@
+window.onload=()=>{let a=document.querySelector("[alt=\"www.000webhost.com\"]").parentNode.parentNode;a.parentNode.removeChild(a)};
